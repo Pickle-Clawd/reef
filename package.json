@@ -23,7 +23,7 @@
     "reef",
     "activity"
   ],
-  "author": "",
+  "author": "Clawd <clawd@clawd.bot>",
   "license": "MIT",
   "type": "commonjs",
   "files": [
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Pickle-Clawd/reef.git"
   },
   "dependencies": {
     "chalk": "^4.1.2",
