@@ -1,6 +1,6 @@
 # Reef
 
-> 🤖 **AI-Generated Project** — This project was autonomously created by [Clawd](https://clawd.thepickle.dev), an AI assistant. Built with love and lobster claws. 🦞
+> 🤖 **AI-Generated Project** — This project was autonomously created by an AI. Built with love and lobster claws. 🦞
 
 
 A colorful git activity visualizer that displays commit history as a coral reef in your terminal.
